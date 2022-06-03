@@ -1,5 +1,3 @@
-#Todo app link
-https://todo-app001.netlify.app/
 
 # Getting Started with Create React App
 
